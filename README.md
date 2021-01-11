@@ -61,5 +61,5 @@ Additional visualizations:
 <img width="895" alt="Screen Shot 2021-01-10 at 9 47 17 PM" src="https://user-images.githubusercontent.com/70611325/104150645-67183300-538f-11eb-90da-bee645455ef1.png">
 
 
-There are 2,344,224 users who rented Citi bikes in August 2019. Top 3 start stations are Pershing Square North, E 17th St & Broadway, and West St & Chambers St. Most males rent Citi bikes than females or unknown gender. Most of them born on 1969 and 1990. There are more subscribers than regular customers who use Citi bike. There are more male subscribers and more unkonwn gender customers. People tend to start their bike ride at 5 to 7 pm. Most male and female subscribers take Citi bikes on Thursday while customers with unknown gender take bike ride more frequently on Saturday.
+There are 2,344,224 users who rented Citi bikes in August 2019. Top 3 start stations are Pershing Square North, E 17th St & Broadway, and West St & Chambers St. Most males rent Citi bikes than females or unknown gender. Most of them born on 1969 and 1990. There are more subscribers than regular customers who use Citi bike. There are more male subscribers and more unkonwn gender customers. People tend to start their bike ride at 5 to 7 pm. Most male and female subscribers take Citi bikes on Thursday while customers with unknown gender take bike rides more frequently on Saturday.
 
